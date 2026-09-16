@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.env
-browser_profile/
-railway_bot.session
-error_*.png
-debug_*.png
